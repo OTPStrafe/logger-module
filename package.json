@@ -1,6 +1,6 @@
 {
-  "name": "easy-logger-typescript",
-  "version": "0.1.2",
+  "name": "ragemp-simple-logger",
+  "version": "0.1.3",
   "description": "create logs",
   "main": "./lib/index.js",
   "directories": {
