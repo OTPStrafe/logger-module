@@ -1,3 +1,9 @@
-## Package function
+# Install
 
-This package is for make logs for any project easy.
+> `npm install easy-logger-typescript`
+
+# Usage
+
+> `import logger from 'easy-logger-typescript'`
+> `logger(message type, ...options)`
+
